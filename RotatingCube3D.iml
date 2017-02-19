@@ -5,10 +5,10 @@
     <option name="flexSdkName" value="flexsdk4.15.0air23" />
     <option name="haxeTarget" value="Flash" />
     <option name="hxmlPath" value="$MODULE_DIR$/buildSwf.hxml" />
-    <option name="outputFolder" value="$MODULE_DIR$/out/production/RotatingCube3D" />
+    <option name="outputFolder" value="$MODULE_DIR$/out" />
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
-    <output url="file://$MODULE_DIR$/out/production/RotatingCube3D" />
+    <output url="file://$MODULE_DIR$/out" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
