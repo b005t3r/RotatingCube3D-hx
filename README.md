@@ -1,2 +1,3 @@
 # RotatingCube3D-hx
-Rotating cube demo using Haxe and Heaps
+
+Demo: https://b005t3r.github.io/RotatingCube3D-hx/index.html
